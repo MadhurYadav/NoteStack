@@ -7,7 +7,7 @@ const jwt = require('jsonwebtoken');
 const { authtoken } = require('ngrok');
 const fetchuser = require("../middleware/fetchuser")
 
-const JWT_SECRET = "anurgaisagoodgood";
+const JWT_SECRET = "maddyisagoodgood";
 
 // Route 1: Create a User using : POST "/api/auth/createuser". No login required
 router.post('/createuser', [

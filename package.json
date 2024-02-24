@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/anurag203/iNotebook.git",
-  "name": "inotebook",
+  "homepage": "https://github.com/MadhurYadav/NoteStack",
+  "name": "NoteStack",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
